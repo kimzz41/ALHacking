@@ -1,8 +1,6 @@
 Author: Kimzz
 ### Version 4
 
-(![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
-
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
